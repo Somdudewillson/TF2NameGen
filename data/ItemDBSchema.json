@@ -1,0 +1,47 @@
+{
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "name": {
+                "type": "string",
+                "minLength": 1
+            },
+            "slot": {
+                "enum": [
+                    "Primary",
+                    "Secondary",
+                    "Melee",
+                    "PDA 1",
+                    "PDA 2",
+                    "Building"
+                ]
+            },
+            "classes": {
+                "type": "array",
+                "minItems": 1,
+                "maxItems": 9,
+                "uniqueItems": true,
+                "items": {
+                    "enum": [
+                        "Scout",
+                        "Soldier",
+                        "Pyro",
+                        "Demoman",
+                        "Heavy",
+                        "Engineer",
+                        "Medic",
+                        "Sniper",
+                        "Spy"
+                    ]
+                }
+            }
+        },
+        "required": [
+            "name",
+            "slot",
+            "classes"
+        ]
+    },
+    "title": "ItemDBSchema"
+}
