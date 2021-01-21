@@ -1,0 +1,1555 @@
+[
+  {
+    "name": "Scattergun",
+    "slot": "Primary",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Force-A-Nature",
+    "slot": "Primary",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Shortstop",
+    "slot": "Primary",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Soda Popper",
+    "slot": "Primary",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Baby Face's Blaster",
+    "slot": "Primary",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Back Scatter",
+    "slot": "Primary",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Pistol",
+    "slot": "Secondary",
+    "classes": [
+      "Scout",
+      "Engineer"
+    ]
+  },
+  {
+    "name": "Lugermorph",
+    "slot": "Secondary",
+    "classes": [
+      "Scout",
+      "Engineer"
+    ]
+  },
+  {
+    "name": "C.A.P.P.E.R",
+    "slot": "Secondary",
+    "classes": [
+      "Scout",
+      "Engineer"
+    ]
+  },
+  {
+    "name": "Winger",
+    "slot": "Secondary",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Pretty Boy's Pocket Pistol",
+    "slot": "Secondary",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Flying Guillotine",
+    "slot": "Secondary",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Bonk! Atomic Punch",
+    "slot": "Secondary",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Crit-a-Cola",
+    "slot": "Secondary",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Mad Milk",
+    "slot": "Secondary",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Mutated Milk",
+    "slot": "Secondary",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Bat",
+    "slot": "Melee",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Holy Mackerel",
+    "slot": "Melee",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Unarmed Combat",
+    "slot": "Melee",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Batsaber",
+    "slot": "Melee",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Sandman",
+    "slot": "Melee",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Candy Cane",
+    "slot": "Melee",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Boston Basher",
+    "slot": "Melee",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Three-Rune Blade",
+    "slot": "Melee",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Sun-on-a-Stick",
+    "slot": "Melee",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Fan O'War",
+    "slot": "Melee",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Atomizer",
+    "slot": "Melee",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Wrap Assassin",
+    "slot": "Melee",
+    "classes": [
+      "Scout"
+    ]
+  },
+  {
+    "name": "Rocket Launcher",
+    "slot": "Primary",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Original",
+    "slot": "Primary",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Direct Hit",
+    "slot": "Primary",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Black Box",
+    "slot": "Primary",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Rocket Jumper",
+    "slot": "Primary",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Liberty Launcher",
+    "slot": "Primary",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Cow Mangler 5000",
+    "slot": "Primary",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Beggar's Bazooka",
+    "slot": "Primary",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Air Strike",
+    "slot": "Primary",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Shotgun",
+    "slot": "Secondary",
+    "classes": [
+      "Soldier",
+      "Pyro",
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Reserve Shooter",
+    "slot": "Secondary",
+    "classes": [
+      "Soldier",
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Buff Banner",
+    "slot": "Secondary",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Gunboats",
+    "slot": "Secondary",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Battalion's Backup",
+    "slot": "Secondary",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Concheror",
+    "slot": "Secondary",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Mantreads",
+    "slot": "Secondary",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Righteous Bison",
+    "slot": "Secondary",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "B.A.S.E. Jumper",
+    "slot": "Secondary",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Panic Attack",
+    "slot": "Secondary",
+    "classes": [
+      "Soldier",
+      "Pyro",
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Shovel",
+    "slot": "Melee",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Equalizer",
+    "slot": "Melee",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Pain Train",
+    "slot": "Melee",
+    "classes": [
+      "Soldier",
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Half-Zatoichi",
+    "slot": "Melee",
+    "classes": [
+      "Soldier",
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Disciplinary Action",
+    "slot": "Melee",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Market Gardener",
+    "slot": "Melee",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Escape Plan",
+    "slot": "Melee",
+    "classes": [
+      "Soldier"
+    ]
+  },
+  {
+    "name": "Flame Thrower",
+    "slot": "Primary",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Rainblower",
+    "slot": "Primary",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Nostromo Napalmer",
+    "slot": "Primary",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Backburner",
+    "slot": "Primary",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Degreaser",
+    "slot": "Primary",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Phlogistinator",
+    "slot": "Primary",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Dragon's Fury",
+    "slot": "Primary",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Flare Gun",
+    "slot": "Secondary",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Detonator",
+    "slot": "Secondary",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Manmelter",
+    "slot": "Secondary",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Scorch Shot",
+    "slot": "Secondary",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Thermal Thruster",
+    "slot": "Secondary",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Gas Passer",
+    "slot": "Secondary",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Fire Axe",
+    "slot": "Melee",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Lollichop",
+    "slot": "Melee",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Axtinguisher",
+    "slot": "Melee",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Postal Pummeler",
+    "slot": "Melee",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Homewrecker",
+    "slot": "Melee",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Maul",
+    "slot": "Melee",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Powerjack",
+    "slot": "Melee",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Back Scratcher",
+    "slot": "Melee",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Sharpened Volcano Fragment",
+    "slot": "Melee",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Third Degree",
+    "slot": "Melee",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Neon Annihilator",
+    "slot": "Melee",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Hot Hand",
+    "slot": "Melee",
+    "classes": [
+      "Pyro"
+    ]
+  },
+  {
+    "name": "Grenade Launcher",
+    "slot": "Primary",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Loch-n-Load",
+    "slot": "Primary",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Ali Baba's Wee Booties",
+    "slot": "Primary",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Bootlegger",
+    "slot": "Primary",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Loose Cannon",
+    "slot": "Primary",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "B.A.S.E. Jumper",
+    "slot": "Primary",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Iron Bomber",
+    "slot": "Primary",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Stickybomb Launcher",
+    "slot": "Secondary",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Scottish Resistance",
+    "slot": "Secondary",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Chargin' Targe",
+    "slot": "Secondary",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Sticky Jumper",
+    "slot": "Secondary",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Splendid Screen",
+    "slot": "Secondary",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Tide Turner",
+    "slot": "Secondary",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Quickiebomb Launcher",
+    "slot": "Secondary",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Bottle",
+    "slot": "Melee",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Scottish Handshake",
+    "slot": "Melee",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Eyelander",
+    "slot": "Melee",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Horseless Headless Horsemann's Headtaker",
+    "slot": "Melee",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Nessie's Nine Iron",
+    "slot": "Melee",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Scotsman's Skullcutter",
+    "slot": "Melee",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Ullapool Caber",
+    "slot": "Melee",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Claidheamh Mòr",
+    "slot": "Melee",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Persian Persuader",
+    "slot": "Melee",
+    "classes": [
+      "Demoman"
+    ]
+  },
+  {
+    "name": "Minigun",
+    "slot": "Primary",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Iron Curtain",
+    "slot": "Primary",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Natascha",
+    "slot": "Primary",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Brass Beast",
+    "slot": "Primary",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Tomislav",
+    "slot": "Primary",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Huo-Long Heater",
+    "slot": "Primary",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Family Business",
+    "slot": "Secondary",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Sandvich",
+    "slot": "Secondary",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Robo-Sandvich",
+    "slot": "Secondary",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Dalokohs Bar",
+    "slot": "Secondary",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Fishcake",
+    "slot": "Secondary",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Buffalo Steak Sandvich",
+    "slot": "Secondary",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Second Banana",
+    "slot": "Secondary",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Fists",
+    "slot": "Melee",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Apoco-Fists",
+    "slot": "Melee",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Killing Gloves of Boxing",
+    "slot": "Melee",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Gloves of Running Urgently",
+    "slot": "Melee",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Bread Bite",
+    "slot": "Melee",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Warrior's Spirit",
+    "slot": "Melee",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Fists of Steel",
+    "slot": "Melee",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Eviction Notice",
+    "slot": "Melee",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Holiday Punch",
+    "slot": "Melee",
+    "classes": [
+      "Heavy"
+    ]
+  },
+  {
+    "name": "Shotgun",
+    "slot": "Primary",
+    "classes": [
+      "Engineer"
+    ]
+  },
+  {
+    "name": "Frontier Justice",
+    "slot": "Primary",
+    "classes": [
+      "Engineer"
+    ]
+  },
+  {
+    "name": "Widowmaker",
+    "slot": "Primary",
+    "classes": [
+      "Engineer"
+    ]
+  },
+  {
+    "name": "Pomson 6000",
+    "slot": "Primary",
+    "classes": [
+      "Engineer"
+    ]
+  },
+  {
+    "name": "Rescue Ranger",
+    "slot": "Primary",
+    "classes": [
+      "Engineer"
+    ]
+  },
+  {
+    "name": "Panic Attack",
+    "slot": "Primary",
+    "classes": [
+      "Engineer"
+    ]
+  },
+  {
+    "name": "Wrangler",
+    "slot": "Secondary",
+    "classes": [
+      "Engineer"
+    ]
+  },
+  {
+    "name": "Giger Counter",
+    "slot": "Secondary",
+    "classes": [
+      "Engineer"
+    ]
+  },
+  {
+    "name": "Short Circuit",
+    "slot": "Secondary",
+    "classes": [
+      "Engineer"
+    ]
+  },
+  {
+    "name": "Wrench",
+    "slot": "Melee",
+    "classes": [
+      "Engineer"
+    ]
+  },
+  {
+    "name": "Golden Wrench",
+    "slot": "Melee",
+    "classes": [
+      "Engineer"
+    ]
+  },
+  {
+    "name": "Gunslinger",
+    "slot": "Melee",
+    "classes": [
+      "Engineer"
+    ]
+  },
+  {
+    "name": "Southern Hospitality",
+    "slot": "Melee",
+    "classes": [
+      "Engineer"
+    ]
+  },
+  {
+    "name": "Jag",
+    "slot": "Melee",
+    "classes": [
+      "Engineer"
+    ]
+  },
+  {
+    "name": "Eureka Effect",
+    "slot": "Melee",
+    "classes": [
+      "Engineer"
+    ]
+  },
+  {
+    "name": "Construction PDA",
+    "slot": "PDA 1",
+    "classes": [
+      "Engineer"
+    ]
+  },
+  {
+    "name": "Destruction PDA",
+    "slot": "PDA 2",
+    "classes": [
+      "Engineer"
+    ]
+  },
+  {
+    "name": "Syringe Gun",
+    "slot": "Primary",
+    "classes": [
+      "Medic"
+    ]
+  },
+  {
+    "name": "Blutsauger",
+    "slot": "Primary",
+    "classes": [
+      "Medic"
+    ]
+  },
+  {
+    "name": "Crusader's Crossbow",
+    "slot": "Primary",
+    "classes": [
+      "Medic"
+    ]
+  },
+  {
+    "name": "Overdose",
+    "slot": "Primary",
+    "classes": [
+      "Medic"
+    ]
+  },
+  {
+    "name": "Medi Gun",
+    "slot": "Secondary",
+    "classes": [
+      "Medic"
+    ]
+  },
+  {
+    "name": "Kritzkrieg",
+    "slot": "Secondary",
+    "classes": [
+      "Medic"
+    ]
+  },
+  {
+    "name": "Quick-Fix",
+    "slot": "Secondary",
+    "classes": [
+      "Medic"
+    ]
+  },
+  {
+    "name": "Vaccinator",
+    "slot": "Secondary",
+    "classes": [
+      "Medic"
+    ]
+  },
+  {
+    "name": "Bonesaw",
+    "slot": "Melee",
+    "classes": [
+      "Medic"
+    ]
+  },
+  {
+    "name": "Übersaw",
+    "slot": "Melee",
+    "classes": [
+      "Medic"
+    ]
+  },
+  {
+    "name": "Vita-Saw",
+    "slot": "Melee",
+    "classes": [
+      "Medic"
+    ]
+  },
+  {
+    "name": "Amputator",
+    "slot": "Melee",
+    "classes": [
+      "Medic"
+    ]
+  },
+  {
+    "name": "Solemn Vow",
+    "slot": "Melee",
+    "classes": [
+      "Medic"
+    ]
+  },
+  {
+    "name": "Sniper Rifle",
+    "slot": "Primary",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "AWPer Hand",
+    "slot": "Primary",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Huntsman",
+    "slot": "Primary",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Fortified Compound",
+    "slot": "Primary",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Sydney Sleeper",
+    "slot": "Primary",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Bazaar Bargain",
+    "slot": "Primary",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Machina",
+    "slot": "Primary",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Shooting Star",
+    "slot": "Primary",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Hitman's Heatmaker",
+    "slot": "Primary",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Classic",
+    "slot": "Primary",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Submachine Gun",
+    "slot": "Secondary",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Cleaner's Carbine",
+    "slot": "Secondary",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Jarate",
+    "slot": "Secondary",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Self-Aware Beauty Mark",
+    "slot": "Secondary",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Razorback",
+    "slot": "Secondary",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Darwin's Danger Shield",
+    "slot": "Secondary",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Cozy Camper",
+    "slot": "Secondary",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Kukri",
+    "slot": "Melee",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Tribalman's Shiv",
+    "slot": "Melee",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Bushwacka",
+    "slot": "Melee",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Shahanshah",
+    "slot": "Melee",
+    "classes": [
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Revolver",
+    "slot": "Secondary",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Big Kill",
+    "slot": "Secondary",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Ambassador",
+    "slot": "Secondary",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "L'Etranger",
+    "slot": "Secondary",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Enforcer",
+    "slot": "Secondary",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Diamondback",
+    "slot": "Secondary",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Knife",
+    "slot": "Melee",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Sharp Dresser",
+    "slot": "Melee",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Black Rose",
+    "slot": "Melee",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Your Eternal Reward",
+    "slot": "Melee",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Wanga Prick",
+    "slot": "Melee",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Conniver's Kunai",
+    "slot": "Melee",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Big Earner",
+    "slot": "Melee",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Spy-cicle",
+    "slot": "Melee",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Disguise Kit",
+    "slot": "PDA 1",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Invis Watch",
+    "slot": "PDA 2",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Enthusiast's Timepiece",
+    "slot": "PDA 2",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Quäckenbirdt",
+    "slot": "PDA 2",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Cloak and Dagger",
+    "slot": "PDA 2",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Dead Ringer",
+    "slot": "PDA 2",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Sapper",
+    "slot": "Building",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Ap-Sap",
+    "slot": "Building",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Snack Attack",
+    "slot": "Building",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Red-Tape Recorder",
+    "slot": "Building",
+    "classes": [
+      "Spy"
+    ]
+  },
+  {
+    "name": "Saxxy",
+    "slot": "Melee",
+    "classes": [
+      "Scout",
+      "Soldier",
+      "Pyro",
+      "Demoman",
+      "Heavy",
+      "Engineer",
+      "Medic",
+      "Sniper",
+      "Spy"
+    ]
+  },
+  {
+    "name": "Frying Pan",
+    "slot": "Melee",
+    "classes": [
+      "Scout",
+      "Soldier",
+      "Pyro",
+      "Demoman",
+      "Heavy",
+      "Medic",
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Conscientious Objector",
+    "slot": "Melee",
+    "classes": [
+      "Scout",
+      "Soldier",
+      "Pyro",
+      "Demoman",
+      "Heavy",
+      "Medic",
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Freedom Staff",
+    "slot": "Melee",
+    "classes": [
+      "Scout",
+      "Soldier",
+      "Pyro",
+      "Demoman",
+      "Heavy",
+      "Medic",
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Bat Outta Hell",
+    "slot": "Melee",
+    "classes": [
+      "Scout",
+      "Soldier",
+      "Pyro",
+      "Demoman",
+      "Heavy",
+      "Medic",
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Memory Maker",
+    "slot": "Melee",
+    "classes": [
+      "Scout",
+      "Soldier",
+      "Pyro",
+      "Demoman",
+      "Heavy",
+      "Medic",
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Ham Shank",
+    "slot": "Melee",
+    "classes": [
+      "Scout",
+      "Soldier",
+      "Pyro",
+      "Demoman",
+      "Heavy",
+      "Medic",
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Golden Frying Pan",
+    "slot": "Melee",
+    "classes": [
+      "Scout",
+      "Soldier",
+      "Pyro",
+      "Demoman",
+      "Heavy",
+      "Engineer",
+      "Medic",
+      "Sniper",
+      "Spy"
+    ]
+  },
+  {
+    "name": "Necro Smasher",
+    "slot": "Melee",
+    "classes": [
+      "Scout",
+      "Soldier",
+      "Pyro",
+      "Demoman",
+      "Heavy",
+      "Engineer",
+      "Medic",
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Crossing Guard",
+    "slot": "Melee",
+    "classes": [
+      "Scout",
+      "Soldier",
+      "Pyro",
+      "Demoman",
+      "Heavy",
+      "Medic",
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Prinny Machete",
+    "slot": "Melee",
+    "classes": [
+      "Scout",
+      "Soldier",
+      "Pyro",
+      "Demoman",
+      "Heavy",
+      "Engineer",
+      "Medic",
+      "Sniper",
+      "Spy"
+    ]
+  }
+]
